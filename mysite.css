@@ -1,0 +1,158 @@
+body {
+  margin: 0%;
+  /* font-family: "Merriweather", serif; */
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 3%; /* this is width of the hr */
+  border-width: 4px; /* this is width of the dots */
+  border-color: #666b7e;
+}
+
+.top-container {
+  margin: 0;
+  background-color: #eac8af;
+  position: relative;
+  padding-top: 80px;
+  text-align: center;
+}
+
+/* h1 {
+  margin-block-start: 0em;
+  margin-block-end: 0.67em;
+} */
+
+.header {
+  font-size: 400%;
+  font-family: "Dancing Script", cursive;
+  color: #1b2021;
+  margin-bottom: 0%;
+}
+
+.sub-header {
+  font-size: 150%; /* this is static, for dynamic: 100%=16px */
+  color: #1b2021;
+}
+
+.moon {
+  width: 30%;
+  align-items: center;
+}
+
+.paws1 {
+  width: 10%;
+  position: absolute;
+  left: 10%;
+  top: 100px;
+}
+
+.paws2 {
+  width: 10%;
+  position: absolute;
+  top: 400px;
+  right: 10%;
+}
+
+.middle-container {
+  font-family: "PT Serif", serif;
+  text-align: center;
+}
+
+.profile {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.profile-img {
+  width: 20%;
+  border-radius: 100px;
+  float: left;
+  margin-right: 30px;
+}
+
+.my-skills {
+  font-size: 150%;
+}
+
+.skill {
+  margin-top: 100px;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.nature-photography-icon {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.designing-icon {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.digital-marketing-icon {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.bottom-container {
+  margin: 50px auto 50px auto;
+  width: 50%;
+  text-align: center;
+  line-height: 2;
+  font-family: "PT Serif", serif;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  background: #3498db;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+
+.footer {
+  background-color: #eac8af;
+  margin: 0;
+  text-align: center;
+  padding: 40px;
+}
+
+.social-media {
+  word-spacing: 25px;
+}
+
+.copyright {
+  margin-top: 30px;
+}
+
+.sm-link {
+  font-family: "PT Serif", serif;
+  color: #b89183;
+  text-decoration: none;
+  font-size: 110%;
+}
+
+/* font size problem */
+/* #5f939a  #eac8af #1b2021 */
